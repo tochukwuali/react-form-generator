@@ -23,5 +23,11 @@
   color: white;
   font-weight: bold;
   border-radius: 5px;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
+}
+
+@media (max-width: 650px) {
+  .form__submit {
+    width: 100%;
+  }
 }
