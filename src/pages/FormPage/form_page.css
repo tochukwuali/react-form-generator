@@ -20,6 +20,7 @@
 h1 {
   align-self: flex-start;
   margin-left: 40px;
+  padding: 60px 20px;
 }
 
 @media(max-width: 650px) {
