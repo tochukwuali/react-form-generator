@@ -1,0 +1,27 @@
+.form__item {
+  width: 100%;
+  padding: 0.5rem 0;
+  /* margin: 10px; */
+}
+.form__input {
+  padding: 8px;
+  width: 100%;
+  border-radius: 3px;
+  border: 1px solid black;
+  line-height: 1.5;
+}
+.form__select {
+  height: 2.3rem;
+}
+
+.form__submit {
+  margin: 1rem 0;
+  width: 18%;
+  border: none;
+  padding: 0.8rem;
+  background: #7d8c9b;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  font-family: 'Rubik', sans-serif;
+}
