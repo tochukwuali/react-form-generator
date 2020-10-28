@@ -26,7 +26,7 @@ h1 {
 @media(max-width: 650px) {
     
 .form__wrapper{
-  width: 400px;
+  width: 350px;
   padding: 60px 20px;
 }
 
